@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <title> 
+       BVRIT HYDERABAD 
+    </title>
+  </head>
+   <body>
+<a href="https://en.wikipedia.org/wiki/Padmasri_Dr._B._V._Raju_Institute_of_Technology">
+<img src="C:\Users\Sridhar\Downloads\ss4.PNG" alt="Bvrit Hyderabad"></a>
+<h>Click on image to open </h>
+   </body>
+</html>
