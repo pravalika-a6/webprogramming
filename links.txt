@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>links</title>
+	</head>
+	<body>
+	<p>Click <a href = "https://en.wikipedia.org/wiki/Bachelor_of_Technology" target="_blank">B.Tech</a>
+	to access BVRIT Hyderabad Wikipedia</p>
+	<p>Click <a href = "https://en.wikipedia.org/wiki/Information_technology" target = "_blank">IT Department</a>
+	to access Information Technology Wikipedia</p>
+	</body>
+</html>
