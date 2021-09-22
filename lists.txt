@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>IT - INFORMATION TECHNOLOGY</title>
+    </head>
+<p>IT - INFORMATION TECHNOLOGY</p>
+    <p>BTech IT prepares students in the concepts of software development, information security, business software, maintaining databases and networks during the 4 years of education. BTech IT directs towards a bright future in the fields of software engineering and development. 
+BTech IT Admission takes place through entrance exams such as JEE Main, JEE Advanced, VITEEE, WBJEE etc. Students must clear the entrance exams with good results in order to study from a college of their choice. 
+     </p>
+      <p> IT courses are in great demand since IT is a dominant industry in India. Students need to be good in Maths and Physics to excel in this line of studies and work. 
+</p>
+
+<p>SUBJECTS AVAILABLE ARE </p>
+<ol>
+<li>Database Management Systems</li>
+<li>Operating Systems</li>
+<li>Web Programming</li>
+<li>C Programming</li>
+<li>Computer oriented statiscal methods</li>
+<li>JAVA Programming</li>
+<li>Machine Learning</li>
+<li>Data Analytics</li>
+<li>Data Communications & Computer Networks</li>
+<li>Software Engineering</li>
+</ol>
+</html>
