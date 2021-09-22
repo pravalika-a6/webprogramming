@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Frames</title>
+</head>
+<frameset cols = "20%,60%,20%">
+	<frame name = "Contents of page" src = "C:\Users\Sridhar\Downloads\ss1.png">
+	<frame name = "body of page" src = "C:\Users\Sridhar\Downloads\ss2.png">
+	<frame name = "remarks" src = "C:\Users\Sridhar\Downloads\ss3.png">
+    
+<noframes>
+	<body> Your browser does not support frames </body>
+</noframes>
+</frameset>
+
+</html>
